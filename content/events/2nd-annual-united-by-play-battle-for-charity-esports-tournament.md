@@ -2,7 +2,7 @@
 title: '2nd Annual United by Play Battle for Charity Esports Tournament'
 date: '2022-12-19T03:52:20+00:00'
 status: publish
-permalink: /event/2nd-annual-united-by-play-battle-for-charity-esports-tournament
+permalink: /events/2nd-annual-united-by-play-battle-for-charity-esports-tournament
 author: admin
 excerpt: ''
 type: tribe_events
